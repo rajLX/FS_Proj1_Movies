@@ -15,3 +15,11 @@ Following files are included in this repo.
        |--- entertainment.py
        |--- fresh_tomatoes.py
 ```
+## Creator
+
+**rajLX**
+- <https://github.com/rajLX>
+
+## Copyright and license
+
+Code and documentation Copyright 2017, [rajLX](https://github.com/rajLX). Code is released under the [Opensource license](https://opensource.org/licenses/OSL-3.0).
