@@ -10,7 +10,7 @@ Here are instructions how to run my little program that lists my favorite movies
 ### What's included?
 <code>
     movies/
-       |--- media.py
-       |--- entertainment.py
-       |--- fresh_tomatoes.py
+<br>       |--- media.py 
+<br>       |--- entertainment.py
+<br>       |--- fresh_tomatoes.py
 </code>
