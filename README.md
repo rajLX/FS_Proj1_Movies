@@ -8,8 +8,8 @@ Here are instructions how to run my little program that lists my favorite movies
 * Run: <code> python entertainment.py </code>
 
 ### What's included?
-Following files are included in this repo.
-    movies/
-       |--- media.py
-       |--- entertainment.py
-       |--- fresh_tomatoes.py
+Following files are included in this repo. <br>
+    <code> movies/  </code> <br>
+    <code>      |--- media.py </code> <br>
+    <code>      |--- entertainment.py </code> <br>
+    <code>      |--- fresh_tomatoes.py </code> <br>
